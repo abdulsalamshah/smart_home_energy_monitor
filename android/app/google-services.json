@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "942050053807",
+    "project_id": "smart-home-334c9",
+    "storage_bucket": "smart-home-334c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942050053807:android:c3d601b4cb1438b2b20e5a",
+        "android_client_info": {
+          "package_name": "com.example.smart_home_energy_monitor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQtEh6nVUIMap0m7hIjE-mPjzCs9CwKf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
